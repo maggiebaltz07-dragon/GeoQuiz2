@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Question Bank Text -->
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is the largest ocean on Earth.</string>
+    <string name="question_mideast">The Suez Canal connects the Atlantic Ocean to the Pacific Ocean.</string>
+    <string name="question_africa">The Nile River is the longest river in Africa.</string>
+    <string name="question_americas">The Amazon Rainforest is located entirely within Brazil.</string>
+    <string name="question_asia">Tokyo is the most populous metropolitan area in the world.</string>
+
+    <!-- Buttons -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="show_answer_button">Show Answer</string>
+
+    <!-- Toast Messages Feedback -->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="cheat_warning">Are you sure you want to cheat?</string>
+
+</resources>
